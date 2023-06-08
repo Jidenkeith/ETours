@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectA</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_body">BodyActivity</string>
+    <string name="title_activity_attendance">AttendanceActivity</string>
+</resources>
